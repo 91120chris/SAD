@@ -2,6 +2,8 @@
 ## [FinTech 心智圖](https://gitmind.com/app/docs/mm8pqc20)
 ## [作業一](https://drive.google.com/file/d/10DAwVhyzCq8yrMQwcyjX-pLmd3VMVzwf/view?usp=sharing)
 ## [作業二](https://drive.google.com/file/d/1uRgiFnjMk4OvHYHKZZU-RRFl0RTlxuMr/view?usp=sharing)
+## [作業三](https://drive.google.com/file/d/1Jgj1uc9FjhAbJO03ubvRIlKbMcAb8Uj_/view?usp=sharing)
+
 ## 教學影片
 [金融研訓院-金融科技力](https://www.youtube.com/playlist?list=PL9NZYNTi48oAD6_uj2aNLK4zFmpKZ5sxj)
 
