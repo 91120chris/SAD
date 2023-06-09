@@ -1,5 +1,5 @@
 # SAD
-##期末專題
+## 期末專題
 ## [FinTech 心智圖](https://gitmind.com/app/docs/mm8pqc20)
 ## [作業一](https://drive.google.com/file/d/10DAwVhyzCq8yrMQwcyjX-pLmd3VMVzwf/view?usp=sharing)
 ## [作業二](https://drive.google.com/file/d/1uRgiFnjMk4OvHYHKZZU-RRFl0RTlxuMr/view?usp=sharing)
